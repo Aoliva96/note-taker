@@ -1,6 +1,19 @@
-[
+{
+  "notes": [
     {
-        "title":"Test Title",
-        "text":"Test text"
+      "id": 1,
+      "title": "Take out trash",
+      "text": "Test note 01 text"
+    },
+    {
+      "id": 2,
+      "title": "Do dishes",
+      "text": "Test note 02 text"
+    },
+    {
+      "id": 3,
+      "title": "Fold laundry",
+      "text": "Test note 03 text"
     }
-]
+  ]
+}

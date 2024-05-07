@@ -42,7 +42,7 @@ See below for a screenshot of the project:
 
 [Link to the GitHub repo for this project](https://github.com/Aoliva96/note-taker)
 
-[Link to the deployed project on GitPages](https://aoliva96.github.io/note-taker)
+[Link to the deployed project on Heroku](https://bootcamp-project-note-taker-0ee4c6227030.herokuapp.com/)
 
 ## Collaborators
 

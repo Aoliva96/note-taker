@@ -1,19 +1,27 @@
-{
-  "notes": [
+[
     {
-      "id": 1,
-      "title": "Take out trash",
-      "text": "Test note 01 text"
+        "title": "note title",
+        "text": "note text",
+        "_id": "b885d0be-7b61-41f6-93d1-1ae7f794517c"
     },
     {
-      "id": 2,
-      "title": "Do dishes",
-      "text": "Test note 02 text"
+        "title": "note title 2",
+        "text": "note text 2",
+        "_id": "629e51ec-a73b-4728-89fa-40a2b97b5557"
     },
     {
-      "id": 3,
-      "title": "Fold laundry",
-      "text": "Test note 03 text"
+        "title": "note title 3",
+        "text": "note text 3",
+        "_id": "84183901-0c25-44ee-b141-b985c5fcdc25"
+    },
+    {
+        "title": "note title 4",
+        "text": "note text 4",
+        "_id": "ad1074f9-9d9c-4fc6-aa86-a58320b7828a"
+    },
+    {
+        "title": "note title 5",
+        "text": "note text 5",
+        "_id": "9a42fb64-112f-4324-bcc7-014c1824f914"
     }
-  ]
-}
+]
